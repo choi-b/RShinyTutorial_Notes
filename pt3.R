@@ -1,7 +1,7 @@
 #7.12.2019
 
 #My Notes on <Part 3 - How to Customize Appearance>.
-#In the Entire Tutorial video, Part 2 runs from 1:32:41 to 2: 
+#In the Entire Tutorial video, Part 3 runs from 1:32:41 to 2:25
 
 
 ## Add Static Content ##
