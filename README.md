@@ -3,6 +3,7 @@
 <pre>
 How to Start Shiny Tutorial
 This tutorial is a 3-part webinar series by RStudio.  
+(It's a little dry at times & there's no speed adjusting)
 </pre>
 [Click for Link to Tutorial](https://shiny.rstudio.com/tutorial/)
 <pre>
